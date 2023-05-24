@@ -1954,6 +1954,8 @@ header .logo a {
 }
 .popup-modal .link-box a:first-child {
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
+	width: 100%;
+	
 }
 .popup-modal .link-box a:hover {
 	background: #cc005f;
